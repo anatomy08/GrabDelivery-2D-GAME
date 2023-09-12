@@ -1,8 +1,8 @@
-# Objectivs of the Game
+# Objectives of the Game
 
-* Get all the Pizza to the Customer
-* Avoid colliding with Cows on the road it will reduce your movespeed.
-* Try to get Fuel Cans in Order to boost your Speed again.
+* Get all the Pizza to the Customer.
+* Be cautious and avoid collisions with cows on the road, as they will decrease your movement speed.
+* Collect fuel cans to restore your speed and keep the delivery going smoothly.
 
 ## How do i make the game. *First Project*
 
