@@ -4,6 +4,8 @@
 * Be cautious and avoid collisions with cows on the road, as they will decrease your movement speed.
 * Collect fuel cans to restore your speed and keep the delivery going smoothly.
 
+You can play my game here : https://jeffreyexpectacion.itch.io/grab-delivery
+  
 ## How do i make the game. *First Project*
 
 1. I started by creating various sprite shapes, including circles, rectangles, and other custom shapes.
