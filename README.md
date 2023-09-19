@@ -5,6 +5,7 @@
 * Collect fuel cans to restore your speed and keep the delivery going smoothly.
 
 You can play my game here : https://jeffreyexpectacion.itch.io/grab-delivery
+You can donate on my GCASH number 09163400978
   
 ## How do i make the game. *First Project*
 
